@@ -2,7 +2,7 @@
 <h3 align="center">I study Computer Networks and Cybersecurity.</h3>
 <img align="right" alt="coding" width="400" src="./animation.gif">
 
-- 🌱 I’m currently learning **Networking, cybersecurity, Linux system administration**
+- 🌱 I’m currently learning **networking, cybersecurity, GNU/linux system administration**
 
 - 💬 Ask me about **Bash, Linux, Networking, ethical hacking, cryptography, apache, mysql, exim4, bind**
 
