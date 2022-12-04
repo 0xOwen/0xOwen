@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **networking, cybersecurity, GNU/linux system administration**
 
-- 💬 Ask me about **Bash, Linux, Networking, ethical hacking, cryptography, apache, mysql, exim4, bind**
+- 💬 Ask me about **Bash, Linux, Networking, Ethical Hacking, Cryptography, Apache, Mysql, Exim4, Bind**
 
 - 📫 How to reach me **okiprop@outlook.com**
 
